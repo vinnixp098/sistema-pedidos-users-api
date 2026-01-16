@@ -48,5 +48,5 @@ A aplicação utiliza o **H2 Database** em memória. Para acessar a interface we
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/vinnixp098/cadastro-usuario.git
+   git clone https://github.com/vinnixp098/sistema-pedidos-users-api.git
    cd cadastro-usuario
